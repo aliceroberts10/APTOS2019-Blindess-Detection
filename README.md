@@ -1,6 +1,8 @@
 # Blindess-Detection
 This repository will be used to store all code and files related to the kaggle competition: APTOS 2019 Blindess Detection. 
 
+Presenting this at Vancouver Kaggle Competition Meetup on Thursday, September 19th, 2019. 
+
 Description: 
 
 Imagine being able to detect blindness before it happened.
